@@ -1,0 +1,1 @@
+# JsDemo_npcMoving_up_down_left_right
